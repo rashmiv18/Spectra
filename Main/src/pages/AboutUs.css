@@ -1,0 +1,82 @@
+.abt-div {
+  font-family: "Roboto";
+}
+
+.abt-top-txt {
+  width: 66%;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 28px;
+  line-height: 42px;
+  letter-spacing: 0.03em;
+  text-align: center;
+  margin: 12rem auto 4rem;
+  color: #000000;
+}
+
+.abt-logo-leaf {
+  position: absolute;
+  top: 5rem;
+  left: 63%;
+  z-index: -1;
+  width: 20rem;
+}
+
+.gold-hr {
+  border: 2px solid #e2d8b3;
+  width: 25%;
+  border-radius: 5px;
+  margin: 0 auto;
+}
+
+.abt-blue-h {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.5rem;
+  line-height: 38px;
+  color: #7bb1be;
+  margin: 2rem 0;
+  width: 90%;
+}
+
+.abt-disc {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.2rem;
+  line-height: 33px;
+
+  color: #606060;
+}
+
+.abt-imgrec {
+  width: 22rem;
+  float: right;
+  margin-left: 5rem;
+}
+
+.box-r {
+  margin: 3rem 16rem;
+  text-align: center;
+}
+
+.commands {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7rem;
+  line-height: 42px;
+  text-align: center;
+  color: #af9f65;
+  margin: 3rem auto 0;
+}
+
+.abt-ul {
+  margin: 2.5rem 0 3rem 34%;
+  font-weight: 300;
+  font-size: 1.4rem;
+  line-height: 42px;
+  color: #606060;
+}
+
+.abt-ul span{
+    font-weight: 400;
+}

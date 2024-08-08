@@ -1,0 +1,58 @@
+.vir-div {
+  background-color: #6e6059;
+  height: 100%;
+  width: 100%;
+  margin-top: 12rem;
+position: absolute;
+}
+
+.vir-h1 {
+  font-family: Aclonica;
+  font-weight: 400;
+  font-size: 5rem;
+  line-height: 131.06%;
+width: 36rem;
+  text-align: center;
+padding-top: 2rem;
+  color: black;
+  padding-left: 26rem;
+}
+
+.vl {
+  border-left: 6px solid #EDE9DB;
+  height: 9rem;
+  position: absolute;
+left: 45rem;
+bottom: 3rem;
+}
+
+.vir-div button{
+    background-color: #EDE9DB;
+    color: #7bb1be;
+    border: none;
+    font-family: "Roboto";
+  font-weight: 700;
+  position: absolute;
+  width: 12rem;
+  border-radius: 5px;
+}
+
+.vir-div h4{
+    display: inline-block;
+  font-size: 16px;
+}
+
+.vir-arw{
+    width: 1.5rem;
+    position: relative;
+    top: 7px;
+    padding-left: 1rem;
+}
+
+.but-obj{
+    left: 22rem;
+}
+
+.but-face{
+    left: 54rem;
+}

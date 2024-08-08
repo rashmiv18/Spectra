@@ -1,0 +1,25 @@
+.foot ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #7bb1be;
+  color: white;
+}
+
+.foot li {
+  float: left;
+  display: block;
+  color: white !important;
+  text-align: center;
+  padding: 4rem 2rem;
+  text-decoration: none !important;
+}
+
+.foot {
+  margin: 0;
+}
+
+.copyright {
+  margin: 0 20rem 0 7rem;
+}

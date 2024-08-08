@@ -1,0 +1,66 @@
+.front-girl {
+  width: 25%;
+  position: absolute;
+  left: 58%;
+  z-index: 1;
+}
+
+.home-btn{
+  position: absolute;
+  background-color: #6e6059;
+  top: 28rem;
+  left: 5rem;
+}
+
+.front-rect {
+  background-color: #6e6059;
+  color: white;
+  position: absolute;
+  width: 8rem;
+  left: 81%;
+  z-index: 2;
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  line-height: 32px;
+  font-size: 22px;
+  text-align: center;
+  padding: 10% 2% 2%;
+}
+
+.home-h2 {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 28px;
+  letter-spacing: 0.03em;
+  color: #565656;
+  position: absolute;
+  top: 12rem;
+  left: 5rem;
+  width: 300px;
+}
+
+.left-div {
+  position: absolute;
+}
+
+.home-h1{
+    font-family: 'Merriweather Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 76px;
+line-height: 105px;
+color: #000000;
+position: absolute;
+width: 600px;
+top: 12rem;
+left: 5rem;
+}
+
+.logo-leaf{
+    width: 16rem;
+    position: absolute;
+    top: 12rem;
+    left: 27rem;
+    visibility: visible;
+}

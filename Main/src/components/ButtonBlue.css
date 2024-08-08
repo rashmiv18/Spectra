@@ -1,0 +1,22 @@
+.blue-b {
+  background-color: #6e6059;;
+  color: #ede9db;
+  border: none;
+  font-family: "Roboto";
+  font-weight: 700;
+
+  width: 12rem;
+  border-radius: 5px;
+}
+
+h4 {
+  display: inline-block;
+  font-size: 16px;
+}
+
+.arrow-wh {
+  width: 1.5rem;
+  position: relative;
+  top: 7px;
+  padding-left: 1rem;
+}
