@@ -2,7 +2,7 @@
 
 ## About the Project
 
-Drishti is a project to make the lives of visually impaired people easier. It provides features like face recognition, object recognition, text recognition and voice navigation.
+Spectra is a project to make the lives of visually impaired people easier. It provides features like face recognition, object recognition, text recognition and voice navigation.
 It is difficult for people who are blind or have low vision to recognize objects or emotions in a variety of situations. Sole reliance on others may be difficult in some circumstances.
 Using face recognition technology, the system will identify object, emotions and many more.
 
